@@ -1,0 +1,12 @@
+h3{
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+    /* box-shadow: 20px 10px blue; */
+    box-shadow: 20px 10px 20px blue;
+    
+}
